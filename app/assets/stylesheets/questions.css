@@ -1,0 +1,26 @@
+body {
+  background: #F4F4F4;
+}
+
+body h1 {
+  color: #136b13;
+  background: pink;
+}
+
+body h2 {
+  color: #8d0d0d;
+}
+
+body input {
+  background: #a8c71f;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7c3de2;
+}
+/*# sourceMappingURL=questions.css.map */
